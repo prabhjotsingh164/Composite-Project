@@ -156,7 +156,7 @@ const shoppingCart = [
         name: `Shoes`,
         footwear: `Women`,
         price: `90`,
-        brand: `Reebok`,
+        brand: `Puma`,
         size: `9`,
         color: `Brown`,
         type: `Casual`,
