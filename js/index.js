@@ -93,7 +93,7 @@ const shoppingCart = [
         // 6
         id:7,
         image: `./images/cowboy.jpg`,
-        name: `Boots`,
+        name: ` Sturdy Boots`,
         footwear: `Men`,
         price: `40`,
         brand: `Salvi`,
@@ -213,7 +213,7 @@ const shoppingCart = [
         // 14
         id:15,
         image: `./images/asian shoes men sports.jpg`,
-        name: `SuperFit`,
+        name: `SuperFit Grip`,
         footwear: `Men`,
         price: `30`,
         brand: `Asian`,
@@ -228,7 +228,7 @@ const shoppingCart = [
         // 15
         id:16,
         image: `./images/asian shoes men casual.jpg`,
-        name: `Beeta`,
+        name: `Beeta Style X`,
         footwear: `Men`,
         price: `30`,
         brand: `Asian`,
@@ -243,7 +243,7 @@ const shoppingCart = [
         // 16
         id:17,
         image: `./images/asian shoes men skypy.jpg`,
-        name: `Skypy`,
+        name: `Skypy Highneck`,
         footwear: `Men`,
         price: `30`,
         brand: `Asian`,
