@@ -152,7 +152,7 @@ const shoppingCart = [
 
         // 10
         id:11,
-        image: `./images/Reebok women.jpg`,
+        image: `./images/puma highneck women.jpg`,
         name: `Shoes`,
         footwear: `Women`,
         price: `90`,
