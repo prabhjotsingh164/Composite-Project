@@ -124,7 +124,7 @@ text-align: center;
 #products
 {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr  1fr;
     grid-gap:1em;
     grid-template-rows: 30em 30em;
     resize:horizontal;
