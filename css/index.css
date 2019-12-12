@@ -126,6 +126,7 @@ text-align: center;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-gap:1em;
+    grid-template-rows: 30em 30em;
     resize:horizontal;
     object-fit: contain;
     
@@ -349,6 +350,11 @@ padding-bottom: 1em;
                             
     }
                         
-                        
+    .search_bar input[type=text]
+    {
+        
+        margin-left:2em ;
+        
+    }                 
     }
                

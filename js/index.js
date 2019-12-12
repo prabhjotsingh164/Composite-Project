@@ -712,7 +712,7 @@ const handleClickOfProducts = event => {
     document.getElementById('search').addEventListener('input', checkForProductName);
     document.getElementById('men').addEventListener('input', searchFootwearForMen);
     document.getElementById('women').addEventListener('input', searchFootwearForWomen);
-    document.getElementById('ten').addEventListener('input', searchByPrice);
+    //document.getElementById('ten').addEventListener('input', searchByPrice);
     document.getElementById('twenty').addEventListener('input', searchByPriceTwenty);
     document.getElementById('thirty').addEventListener('input', searchByPriceThirty);
     document.getElementById('forty').addEventListener('input', searchByPriceForty);
