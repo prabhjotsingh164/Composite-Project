@@ -152,11 +152,11 @@ const shoppingCart = [
 
         // 10
         id:11,
-        image: `./images/puma highneck women.jpg`,
+        image: `./images/reebok women.jpg`,
         name: `Shoes`,
         footwear: `Women`,
         price: `90`,
-        brand: `Puma`,
+        brand: `Reebok`,
         size: `9`,
         color: `Brown`,
         type: `Casual`,
